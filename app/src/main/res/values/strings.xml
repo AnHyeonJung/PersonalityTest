@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PersonalityTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_1">해리포터 기숙사 테스트</string>
+    <string name="subtitle_1">다음은 해리포터 기숙사를 선정하는 테스트들입니다.</string>
+    <string name="question_1">잠긴 문을 열어야한다.\n어떤 스타일로 열것인가?</string>
+    <string name="select_1">문을 부순다</string>
+    <string name="select_2">좌물쇠를 딴다</string>
+    <string name="select_3">노크한다</string>
+    <string name="select_4">열쇠를 찾는다.</string>
+    <string name="finish_1">결과는?</string>
+</resources>
